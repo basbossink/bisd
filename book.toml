@@ -1,9 +1,9 @@
 [book]
-authors = ["Bas Bossink"]
+authors = ["Bas Bossink <bas.bossink@gmail.com>"]
 multilingual = false
 src = "src"
 title = "Buddha inspired software development"
-description = "A look at software development through the lens of the teachings of the Buddha."
+description = "A look at software development through the lens of the teachings of the Mr. Gotama."
 
 [build]
 create-missing = true
