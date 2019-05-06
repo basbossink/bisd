@@ -1,11 +1,11 @@
 # Summary
 
+[Buddha inspired software development](frontmatter/title.md)
 [Copyright](frontmatter/copyright.md)
 [Dedications](frontmatter/dedications.md)
 [Preface](frontmatter/preface.md)
 [Acknowledgments](frontmatter/acknowledgments.md)
 [How to read this book](frontmatter/howto-read.md)
-[Contents](frontmatter/contents.md)
 
 - [Introduction](chapter-01/introduction.md)
   - [Why this book?](chapter-01/why.md)

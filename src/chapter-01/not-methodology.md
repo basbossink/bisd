@@ -1,1 +1,3 @@
 # Not an agile methodology
+
+To avoid any confusion or upset about another agile methodology being invented or marketed to be able to sell, books, consultancy or training, let me assure the reader that this book does not aspire to create a 'new' agile methodology. This book wants to look at agile software development from an ethical, humane and spiritual perspective. Wherever possible the original sources about particular subjects will be referred to. I humbly acknowledge that none of the thoughts restated here, are my own, but that I am merely bringing together ideas that have been put forth by other people infinitely wiser and more experienced than myself.
